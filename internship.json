@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "role": "Full stack Developer",
+    "organisation": "CODING NINJAS",
+    "startDate": "Sept, 2022",
+    "endDate": "Sept, 2023",
+    "location": "NCR-Delhi",
+    "experiences": [
+      "Worked on FrontEnd",
+      "Worked with the Web-Developer"
+    ],
+    "imageSrc": "company/coding ninja.jpg"
+  },
+  {
+    "id": 2,
+    "role": "Web-Development",
+    "organisation": "APEX BYTE",
+    "startDate": "Aug, 2024",
+    "endDate": "Nov, 2024",
+    "location": "Noida",
+    "experiences": [
+      "Worked on Projects",
+      "Worked on Window 11 Upcoming features"
+    ],
+    "imageSrc": "company/apex byte.png"
+  },
+  {
+    "id": 3,
+    "role": "Network Simulation wireless Network",
+    "organisation": "NetSim",
+    "startDate": "01/11/2024",
+    "endDate": "03/112024",
+    "location": "Gautam Budda University",
+    "experiences": [
+      "Worked on wireless Network",
+      "Workshop"
+    ],
+    "imageSrc": "company/netsim.webp"
+  },
+  {
+    "id": 3,
+    "role": "Web-Development",
+    "organisation": "Edigloble",
+    "startDate": "feb, 2025",
+    "endDate": "present",
+    "location": "Bengluru, India",
+    "experiences": [
+      "Worked on Edigloble payment system",
+      "Helped to create UI for video player"
+    ],
+    "imageSrc": "company/edi.jpeg"
+  }
+]
